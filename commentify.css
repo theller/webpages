@@ -1,5 +1,28 @@
-#lesson-comments {
-    max-width: 600px;
-    margin: left;
+body {
+    /* background-color: #ffe9b4; */
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    margin: 20px;
+
+    font-size: 85%;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 170%;
+    text-align: center;
+}
+
+a {
+    text-decoration: underline;
+    color: black;
+}
+
+a:hover {
+    background-color: #D0D0D0;
+}
+
+ul.install {
+    list-style-type: none;
+    line-height: 3.0;
 }
 
